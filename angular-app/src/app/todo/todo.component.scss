@@ -1,0 +1,15 @@
+@import "~bootstrap/scss/bootstrap";
+
+.done{
+    text-decoration: line-through;
+}
+
+.remove-button{
+    color:red;
+    font-weight:bold;
+    cursor: pointer;
+}
+
+.todo-name{
+    cursor: pointer;
+}
